@@ -1,0 +1,5 @@
+C:\Users\Sebastian\source\repos\APIPortafolio\BibliotecaPortafolio\bin\x86\Debug\BibliotecaPortafolio.dll
+C:\Users\Sebastian\source\repos\APIPortafolio\BibliotecaPortafolio\bin\x86\Debug\BibliotecaPortafolio.pdb
+C:\Users\Sebastian\source\repos\APIPortafolio\BibliotecaPortafolio\obj\x86\Debug\BibliotecaPortafolio.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\APIPortafolio\BibliotecaPortafolio\obj\x86\Debug\BibliotecaPortafolio.dll
+C:\Users\Sebastian\source\repos\APIPortafolio\BibliotecaPortafolio\obj\x86\Debug\BibliotecaPortafolio.pdb
